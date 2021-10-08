@@ -1,0 +1,1 @@
+Please add your logo (.svg) -- index.html line 23
